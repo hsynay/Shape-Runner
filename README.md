@@ -9,7 +9,6 @@
 > 🎮 **[Download and Play on Google Play Store] (https://play.google.com/store/apps/details?id=com.KNKStudios.ShapeRunner)**
 
 ## 📸 Gameplay Preview
-*(Add a GIF or 2-3 screenshots of your game here to grab attention instantly!)*
 <br>
 
 <img width="489" height="870" alt="19p-shaperunner" src="https://github.com/user-attachments/assets/dac5be28-770e-4b7b-9742-644afc8795a2" />
@@ -48,4 +47,4 @@ As a Computer Engineering student, this project was a great opportunity to imple
 * Passionate about software engineering, full-stack development, and game design.
 * Always eager to solve complex problems and learn new technologies.
 
-[LinkedIn]((https://www.linkedin.com/in/h%C3%BCseyin-ay01/) | [Email](huseyin_1153@hotmail.com)
+[LinkedIn](https://www.linkedin.com/in/h%C3%BCseyin-ay01/) | [Email](huseyin_1153@hotmail.com)
