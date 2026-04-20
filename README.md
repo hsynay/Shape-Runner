@@ -1,4 +1,4 @@
-<img width="480" height="873" alt="17p-shaperunner" src="https://github.com/user-attachments/assets/8b5e6727-6aef-4e12-8b8f-251027ff636a" /># Shape Runner 🏃‍♂️💨
+# Shape Runner 🏃‍♂️💨
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -12,6 +12,7 @@
 *(Add a GIF or 2-3 screenshots of your game here to grab attention instantly!)*
 <br>
 <img width="483" height="863" alt="18p-shaperunner" src="https://github.com/user-attachments/assets/fb80976f-ac70-44f3-ad65-9c184d3980d0" />
+<img width="480" height="873" alt="17p-shaperunner" src="https://github.com/user-attachments/assets/8b5e6727-6aef-4e12-8b8f-251027ff636a" />
 [Uploading 17p-shaperunner.png…]()
 <img width="492" height="875" alt="16p-shaperunner" src="https://github.com/user-attachments/assets/11c45bd0-7be1-43c1-8607-e63644e4f2db" />
 <img width="492" height="866" alt="14p-shaperunner" src="https://github.com/user-attachments/assets/0ef93816-3a35-44ea-918e-0c44255f76b5" />
